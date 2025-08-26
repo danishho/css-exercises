@@ -1,24 +1,21 @@
- *{
-     font-weight: bold;
- }
- 
- p {
+
+
+ .odd {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
     background-color: pink;
-    font-size: 20px;
-   
-
  }
 
- .no{
-    font-size: 32px;
- }
-
- .two{
-    font-size:35px;
+ #two{
     color: blue;
-
+    font-size: 36px;
  }
 
- #n4{
+.addjust-font-size{
+    font-size: 24px;
+}
+
+.adjust-view{
     background-color: lightgreen;
- }
+    font-size: 24px;
+    font-weight: bold;
+}
