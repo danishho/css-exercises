@@ -10,7 +10,7 @@ For this exercise, we are going to take our Holy Grail Layout from the first exe
 
 When the browser is narrow:
 
-![desired outcome narrow](./desired-outcome-narrow.png)
+![desired outcome narrow](./desired-xoutcome-narrow.png)
 
 When the browser is stretched wide:
 
